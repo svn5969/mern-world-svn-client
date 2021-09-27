@@ -1,0 +1,8 @@
+.contact-info-item {
+  
+    width: 200px;
+    height: 60px;
+    background: rgba(230, 226, 226, 0.924);
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
